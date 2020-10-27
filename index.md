@@ -1,4 +1,4 @@
-##Eunice Dawari
+## Eunice Dawari
 
 99 Dalhousie Drive
 Winnipeg, MB
@@ -6,7 +6,7 @@ Winnipeg, MB
 eunicedawari@gmail.com
 
 ---------------
-####Education
+#### Education
 ---------------
 **Bachelor of Science Degree**  2017-Present
 University of Manitoba
@@ -19,7 +19,7 @@ Southern Ontario Collegiate
 - Grade-12
   
 ---------------
-####Volunteer Experience
+#### Volunteer Experience
 ---------------
 **UMSU Volunteer**  2019-Present
 University of Manitoba, Winnipeg, MB
@@ -41,7 +41,7 @@ Wesley Urban Ministries, Hamilton, ON
 - Guaranteed that donation recipients received valuable and highly satisfactory products to promote blissful holiday experiences
 
 ---------------
-####Summary of Skills 
+#### Summary of Skills 
 ---------------
 **Interpersonal/Communication**
 - Provided a safe and loving environment while attending to every kid's needs
@@ -52,7 +52,7 @@ Wesley Urban Ministries, Hamilton, ON
 - Worked with other prefects to enforce school rules and discipline offenders
 
 ---------------
-####Accomplishments
+#### Accomplishments
 ---------------
 **Female Prep Prefect** 2014-2015 
 Charles Dale Memorial Intl. School
