@@ -1,14 +1,18 @@
 ## Eunice Dawari
 
 99 Dalhousie Drive
+
 Winnipeg, MB
+
 (204) 509-6926
+
 eunicedawari@gmail.com
 
 ---------------
 #### Education
 ---------------
 **Bachelor of Science Degree**  2017-Present
+
 University of Manitoba
 
 - Major: Computer Science
