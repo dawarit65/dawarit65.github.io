@@ -9,6 +9,11 @@ Winnipeg, MB
 eunicedawari@gmail.com
 
 ---------------
+### **Profile**
+---------------
+Goal-oriented individual with a high school diploma looking for an entry level position in a fast paced organization to perform my assigned duties and to gain experience.
+
+---------------
 ### **Education**
 ---------------
 **Bachelor of Science Degree**  2017-Present
