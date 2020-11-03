@@ -23,7 +23,6 @@ This README is targeted at a Computer Science student who is interested in learn
 
 ### Overview
 - Markdown: This is a popular lightweight markup lannguage that serves as alternative to HTML. Due to its flexibility, Markdown is used in almost every documentation tool. There are variations of Markdown syntax such as GitHub Flavoured Markdown(GFM).
-
 - GitHub Pages: This is a service provided by GitHub that allows users to host Markdown files (.md) online as websites.
 
 - Jekyll: This is a static site generator with various templates that are set up to work with Markdown files within the GitHub Pages.
