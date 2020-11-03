@@ -9,7 +9,9 @@ This README is targeted at a Computer Science student who is interested in learn
 ## Summary
 
 - Getting Started
-- Bugs and Troubleshooting
+  -Overview
+  -Prerequisites
+  -Instructions
 - More Resources
 - Authors
 - Acknowledgement
@@ -19,8 +21,15 @@ This README is targeted at a Computer Science student who is interested in learn
 
 ![](resume.gif)
 
+### Overview
+- Markdown: This is a popular lightweight markup lannguage that serves as alternative to HTML. Due to its flexibility, Markdown is used in almost every documentation tool. There are variations of Markdown syntax such as GitHub Flavoured Markdown(GFM).
+
+- GitHub Pages: This is a service provided by GitHub that allows users to host Markdown files (.md) online as websites.
+
+- Jekyll: This is a static site generator with various templates that are set up to work with Markdown files within the GitHub Pages.
+
 ### Prerequisites
-- Have a Resume
+- Have a Resume formatted in Markdown
 - Create a GitHub account
 
 ### Instructions
@@ -33,16 +42,13 @@ A step by step guide to host a resume on GitHubPages.
 - Step 3: Upload or create your markdown resume (save as index.md) in your repository
 
 - Step 4: Select a theme
-   - go to settings in your repository,
-   - scroll down to "Github pages" and
-   - choose a theme from the available options
+   - Go to settings in your repository,
+   - Scroll down to "Github pages" and
+   - Choose a theme from the available options
 
 - Step 5: (Optional) Change the Jekyll Slate theme
-   - open the ".yml" file in your repository
-   - [go to this](https://irvandi.github.io/gEdit/#usage) to learn more about how to edit items  such as title or topic for the selected theme
-
-## Bugs and Troubleshooting
----------------
+   - Open the ".yml" file in your repository
+   - [Go to this](https://irvandi.github.io/gEdit/#usage) to learn more about how to edit items  such as title or topic for the selected theme
 
 ## More Resources
 
@@ -75,4 +81,4 @@ A step by step guide to host a resume on GitHubPages.
    
 - Why is Markdown better than word processor?
    
-   Markdown is better than word processor because it is easier to format plain text for webpages and it does not have an outdated version unlike a word processor.
+   Markdown is better than word processor because it is easier to format plain text for webpages and convert to HTML than a word processor.
