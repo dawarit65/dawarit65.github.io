@@ -49,7 +49,12 @@ A step by step guide to host a resume on GitHubPages.
 ## FAQs
 ---------------
 - Why has my theme not changed?
+
    Sometimes it takes a couple of minutes for any change to the Jekyll slate theme to be effective.
+   
+- Why is Markdown better than word processor?
+   
+   Markdown is better than word processor because it is easier to format plain text for webpages and it does not have an outdated version unlike a word processor.
 
 ## Bugs and Troubleshooting
 ---------------
