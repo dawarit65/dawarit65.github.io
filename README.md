@@ -34,3 +34,7 @@ A step by step guide to host a resume on GitHubPages.
    - go to settings in your repository,
    - scroll down to "Github pages" and
    - choose a theme from the available options
+
+- Step 5: (Optional) Change the Slate theme
+   - open the ".yml" file in your repository
+   - [go to](https://irvandi.github.io/gEdit/#usage) to learn more about how to edit items  such as title or topic for the selected theme
