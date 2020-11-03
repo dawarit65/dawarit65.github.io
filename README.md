@@ -9,3 +9,25 @@ This README is targeted at a Computer Science student who is interested in learn
 ## Summary
 ---------------
 - Getting Started
+- Bugs and Troubleshooting
+- Authors
+- Copyright
+- Acknowledgement
+
+## Getting Started
+---------------
+
+### Prerequisites
+- Have a Resume
+- Create a GitHub account
+
+### Instructions
+A step by step guide to host a resume on GitHubPages.
+
+-Step 1: Create a repository in GitHub Account
+-Step 2: Name the repository with the format: GitHubAccountUsername.github.io
+-Step 3: Upload or create your markdown resume (save as index.md) 
+-Step 4: Select a theme
+  -go to settings in your repository,
+  -scroll down to "Github pages" and
+  -choose a theme from the available options
