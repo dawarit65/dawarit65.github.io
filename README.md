@@ -36,7 +36,7 @@ A step by step guide to host a resume on GitHubPages.
    - scroll down to "Github pages" and
    - choose a theme from the available options
 
-- Step 5: (Optional) Change the Slate theme
+- Step 5: (Optional) Change the Jekyll Slate theme
    - open the ".yml" file in your repository
    - [go to this](https://irvandi.github.io/gEdit/#usage) to learn more about how to edit items  such as title or topic for the selected theme
 
@@ -48,13 +48,16 @@ A step by step guide to host a resume on GitHubPages.
 
 ## FAQs
 ---------------
+- Why has my theme not changed?
+
+Sometimes it takes a couple of minutes for any change to the Jekyll slate theme to be effective.
 
 ## Bugs and Troubleshooting
 ---------------
 
 ## Authors
 
--Billie Thompson - Provided README Template - PurpleBooth
+- Billie Thompson - Provided README Template - PurpleBooth
 
 - Group members:
   - Drew Weber
