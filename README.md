@@ -49,7 +49,6 @@ A step by step guide to host a resume on GitHubPages.
 ## FAQs
 ---------------
 - Why has my theme not changed?
-
    Sometimes it takes a couple of minutes for any change to the Jekyll slate theme to be effective.
 
 ## Bugs and Troubleshooting
