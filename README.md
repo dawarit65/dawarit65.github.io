@@ -41,7 +41,7 @@ A step by step guide to host a resume on GitHubPages.
    - [go to this](https://irvandi.github.io/gEdit/#usage) to learn more about how to edit items  such as title or topic for the selected theme
 
 ## More Resources
----------------
+
 - [A Markdown Tutorial](https://www.markdowntutorial.com/)
 - Andrew Etter's book: [_Modern Technical Writing_](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 - Creating [GIFs](https://github.com/matiassingers/awesome-readme)
@@ -53,7 +53,13 @@ A step by step guide to host a resume on GitHubPages.
 ---------------
 
 ## Authors
----------------
+
+-Billie Thompson - Provided README Template - PurpleBooth
+
+- Group members:
+  - Drew Weber
+  - Nathan Carrie
+  - Patient
 
 ## Copyright
 ---------------
