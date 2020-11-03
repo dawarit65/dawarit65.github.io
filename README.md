@@ -17,6 +17,8 @@ This README is targeted at a Computer Science student who is interested in learn
 
 ## Getting Started
 
+![](resume.gif)
+
 ### Prerequisites
 - Have a Resume
 - Create a GitHub account
