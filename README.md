@@ -31,7 +31,8 @@ A step by step guide to host a resume on GitHubPages.
 -Step 3: Upload or create your markdown resume (save as index.md) 
 
 -Step 4: Select a theme
-
   -go to settings in your repository,
+  
   -scroll down to "Github pages" and
+  
   -choose a theme from the available options
