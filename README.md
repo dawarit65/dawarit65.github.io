@@ -10,6 +10,8 @@ This README is targeted at a Computer Science student who is interested in learn
 ---------------
 - Getting Started
 - Bugs and Troubleshooting
+- More Resources
+- FAQs
 - Authors
 - Copyright
 - Acknowledgement
@@ -37,4 +39,25 @@ A step by step guide to host a resume on GitHubPages.
 
 - Step 5: (Optional) Change the Slate theme
    - open the ".yml" file in your repository
-   - [go to](https://irvandi.github.io/gEdit/#usage) to learn more about how to edit items  such as title or topic for the selected theme
+   - [go to this](https://irvandi.github.io/gEdit/#usage) to learn more about how to edit items  such as title or topic for the selected theme
+
+## More Resources
+---------------
+- [A Markdown Tutorial](https://www.markdowntutorial.com/)
+- Andrew Etter's book: [_Modern Technical Writing_](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+- Creating [GIFs](https://github.com/matiassingers/awesome-readme)
+
+## FAQs
+---------------
+
+## Bugs and Troubleshooting
+---------------
+
+## Authors
+---------------
+
+## Copyright
+---------------
+
+## Acknowledgements
+---------------
