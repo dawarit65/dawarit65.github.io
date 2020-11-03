@@ -38,7 +38,7 @@ This README is targeted at a Computer Science student who is interested in learn
 - Create a GitHub account
 
 ### Instructions
-A step by step guide to host a resume on GitHubPages.
+A step by step guide to host a resume on GitHubPages.     ![](resume2.gif)
 
 - Step 1: Create a repository in GitHub Account
 
