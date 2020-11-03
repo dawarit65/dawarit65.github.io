@@ -12,9 +12,13 @@ This README is targeted at a Computer Science student who is interested in learn
   - Overview
   - Prerequisites
   - Instructions
+  
 - More Resources
+
 - Authors
+
 - Acknowledgement
+
 - FAQs
 
 ## Getting Started
@@ -23,12 +27,14 @@ This README is targeted at a Computer Science student who is interested in learn
 
 ### Overview
 - Markdown: This is a popular lightweight markup lannguage that serves as alternative to HTML. Due to its flexibility, Markdown is used in almost every documentation tool. There are variations of Markdown syntax such as GitHub Flavoured Markdown(GFM).
+
 - GitHub Pages: This is a service provided by GitHub that allows users to host Markdown files (.md) online as websites.
 
 - Jekyll: This is a static site generator with various templates that are set up to work with Markdown files within the GitHub Pages.
 
 ### Prerequisites
 - Have a Resume formatted in Markdown
+
 - Create a GitHub account
 
 ### Instructions
@@ -52,7 +58,9 @@ A step by step guide to host a resume on GitHubPages.
 ## More Resources
 
 - [A Markdown Tutorial](https://www.markdowntutorial.com/)
+
 - Andrew Etter's book: [_Modern Technical Writing_](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+
 - Creating [GIFs](https://github.com/matiassingers/awesome-readme)
 
 ## Authors
