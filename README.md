@@ -11,10 +11,9 @@ This README is targeted at a Computer Science student who is interested in learn
 - Getting Started
 - Bugs and Troubleshooting
 - More Resources
-- FAQs
 - Authors
-- Copyright
 - Acknowledgement
+- FAQs
 
 ## Getting Started
 
@@ -40,24 +39,14 @@ A step by step guide to host a resume on GitHubPages.
    - open the ".yml" file in your repository
    - [go to this](https://irvandi.github.io/gEdit/#usage) to learn more about how to edit items  such as title or topic for the selected theme
 
+## Bugs and Troubleshooting
+---------------
+
 ## More Resources
 
 - [A Markdown Tutorial](https://www.markdowntutorial.com/)
 - Andrew Etter's book: [_Modern Technical Writing_](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 - Creating [GIFs](https://github.com/matiassingers/awesome-readme)
-
-## FAQs
----------------
-- Why has my theme not changed?
-
-   Sometimes it takes a couple of minutes for any change to the Jekyll slate theme to be effective.
-   
-- Why is Markdown better than word processor?
-   
-   Markdown is better than word processor because it is easier to format plain text for webpages and it does not have an outdated version unlike a word processor.
-
-## Bugs and Troubleshooting
----------------
 
 ## Authors
 
@@ -68,8 +57,18 @@ A step by step guide to host a resume on GitHubPages.
   - Nathan Carrie
   - Patient
 
-## Copyright
----------------
-
 ## Acknowledgements
----------------
+
+I would like to thank Professor Penner for her guidance through this assignment.
+
+I would also like to thank my group members for their teamwork and support on this assignment
+
+## FAQs
+
+- Why has my theme not changed?
+
+   Sometimes it takes a couple of minutes for any change to the Jekyll slate theme to be effective.
+   
+- Why is Markdown better than word processor?
+   
+   Markdown is better than word processor because it is easier to format plain text for webpages and it does not have an outdated version unlike a word processor.
