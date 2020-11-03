@@ -9,9 +9,9 @@ This README is targeted at a Computer Science student who is interested in learn
 ## Summary
 
 - Getting Started
-  -Overview
-  -Prerequisites
-  -Instructions
+  - Overview
+  - Prerequisites
+  - Instructions
 - More Resources
 - Authors
 - Acknowledgement
