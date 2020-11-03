@@ -54,8 +54,8 @@ A step by step guide to host a resume on GitHubPages.
 
 - Group members:
   - Drew Weber
-  - Nathan Carrie
-  - Patient
+  - Nathan Carriere
+  - Patient Ndayizeye
 
 ## Acknowledgements
 
