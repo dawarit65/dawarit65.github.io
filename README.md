@@ -61,7 +61,7 @@ A step by step guide to host a resume on GitHubPages.
 
 - I would like to thank Professor Penner for her guidance through this assignment.
 
-I would also like to thank my group members for their teamwork and support on this assignment
+- I would also like to thank my group members for their teamwork and support on this assignment
 
 ## FAQs
 
