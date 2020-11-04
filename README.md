@@ -34,7 +34,11 @@ This README is targeted at a Computer Science student who is interested in learn
 - Jekyll: This is a static site generator with various templates that are set up to work with Markdown files within the GitHub Pages.
 
 ### Prerequisites
-- Have a resume formatted in Markdown
+- Have a resume formatted in Markdown:
+   - Learn how to format in Markdown with this [tutorial](https://www.markdowntutorial.com/)
+   - Create a resume if you don't have one
+   - Format the resume into a Markdown file
+   -Save the file as: index.md
 
 - Create a GitHub account
 
@@ -42,22 +46,34 @@ This README is targeted at a Computer Science student who is interested in learn
 In Etter's book: _Modern Technical Writing_, Etter outlines general processes and concepts for the writing process for a technical writer. Etter describes that the writing process for modern technical writing involves using a lightweight markup language (such as Markdown) along with a static site generator (i.e Jekyll) and a website host page (such as GitHub Pages). Etter states that technical writers should adopt this writing process not only for the ease of use but also, to keep your information from going out of date like PDFs. In addition to these, Etter advices that a technical writer should not write often; a technical writer should do more of research and testing rather than writing. In fact, he suggests writing should be done after gaining a solid understanding of how things works and what one's userbase would like to know in the documentation. 
 
 ### Instructions
-A step by step guide to host a resume on GitHubPages.  
+A step by step guide to host a resume on GitHub Pages.  
 
-- Step 1: Create a repository in GitHub Account
+- Step 1: Create a repository in GitHub Account:
+   - Select "Repositories" at the top of your GitHub profile page
+   - Select "New"
 
-- Step 2: Name the repository with the format: GitHubAccountUsername.github.io
+- Step 2: Name the repository with the format: GitHubAccountUsername.github.io:
+   - For example: if your username for GitHub Pages is smith2", then name your repository: smith2.github.io
 
-- Step 3: Upload or create your markdown resume (save as index.md) in your repository
+- Step 3: Upload or create your markdown resume in your repository:
+   - In your repository, click on "Add file"
+   - Choose to either create a new file or upload a file from your computer
+   - Upload your formatted resume to the repository
 
-- Step 4: Select a theme
+- Step 4: Select a theme:
    - Go to settings in your repository,
    - Scroll down to "Github pages" and
    - Choose a theme from the available options
 
-- Step 5: (Optional) Change the Jekyll Slate theme
+- Step 5: (Optional) Change the Jekyll Slate theme:
    - Open the ".yml" file in your repository
-   - [Go to this](https://irvandi.github.io/gEdit/#usage) to learn more about how to edit items  such as title or topic for the selected theme
+   - [Go to this](https://irvandi.github.io/gEdit/#usage) to learn more about how to edit the format of items such as title or topic for the selected theme
+   
+- Step 6: View online resume
+   - Open a new tab in your browser
+   - Type full repository name into search bar
+   - Search for it
+   - View your resume
 
 ## More Resources
 
