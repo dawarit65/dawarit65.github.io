@@ -94,3 +94,4 @@ A step by step guide to host a resume on GitHubPages.
    
    Markdown is better than word processor because it is easier to format plain text for webpages and convert to HTML than a word processor.
    
+   
