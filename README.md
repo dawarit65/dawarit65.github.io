@@ -4,13 +4,14 @@ This is a free README that outlines the process of hosting an appealing resume o
 
 ## Audience
 
-This README is targeted at a Computer Science student who is interested in learning about the key tools in technical communication.
+This README is targeted at a Computer Science student who is interested in learning about the key tools in technical communication. Let's dive into it together.
 
 ## Summary
 
 - Getting Started
   - Overview
   - Prerequisites
+  - Principles of Andrew Etter's book
   - Instructions
   
 - More Resources
@@ -33,9 +34,12 @@ This README is targeted at a Computer Science student who is interested in learn
 - Jekyll: This is a static site generator with various templates that are set up to work with Markdown files within the GitHub Pages.
 
 ### Prerequisites
-- Have a Resume formatted in Markdown
+- Have a resume formatted in Markdown
 
 - Create a GitHub account
+
+### Principles of Andrew Etter's book
+In Etter's book: _Modern Technical Writing_, Etter outlines general processes and concepts for the writing process for a technical writer. Etter describes that the writing process for modern technical writing involves using a lightweight markup language (such as Markdown) along with a static site generator (i.e Jekyll) and a website host page (such as GitHub Pages). Etter states that technical writers should adopt this writing process not only for the ease of use but also, to keep your information from going out of date like PDFs. In addition to these, Etter advices that a technical writer should not write often; a technical writer should do more of research and testing rather than writing. In fact, he suggests writing should be done after gaining a solid understanding of how things works and what one's userbase would like to know in the documentation. 
 
 ### Instructions
 A step by step guide to host a resume on GitHubPages.  
