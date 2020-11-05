@@ -6,8 +6,6 @@ This is a free README that outlines the process of hosting an appealing resume o
 
 This README is targeted at a Computer Science student who is interested in learning about the key tools in technical communication. Let's dive into it together.
 
-![read](https://cdn3.vectorstock.com/i/1000x1000/71/72/please-read-rubber-stamp-vector-11857172.jpg)
-
 ## Summary
 
 - Getting Started
