@@ -8,7 +8,7 @@ This README is targeted at a Computer Science student who is interested in learn
 
 ## Summary
 
-- Getting Started
+1 Getting Started
   - Overview
   - Prerequisites
   - Principles of Andrew Etter's book
